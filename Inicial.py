@@ -1,5 +1,6 @@
 #matricula y nombre 1
 #A00827629 Juan Carlos Triana Vela
+#A00827858 Enrique Jose Garcia
 #proposito del programa
 
 #funcion1  calcular área del rectángulo
